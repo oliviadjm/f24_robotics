@@ -1,0 +1,18 @@
+INDOOR ENVIRONMENT HOW TOS:
+
+How to launch:
+The default launch value is set to maze.wbt. No extra flags are needed. After setting up a Webots port connection on the host machine (differs depending on Mac/Windows), in an Ubuntu terminal run:
+source /opt/ros/humble/setup.bash
+colcon build
+source install/setup.bash
+ros2 launch final_project launch_final.py
+
+OR, to run maze1_smallest.wbt, in an Ubuntu terminal run:
+source /opt/ros/humble/setup.bash
+colcon build
+source install/setup.bash
+ros2 launch final_project launch_final.py world:=maze1_smallest.wbt
+
+
+This will run both the controller and the world.
+

@@ -1,0 +1,22 @@
+[2.117s] Invoking command in '/home/liv/final_project': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data
+[2.496s] running egg_info
+[2.497s] writing build/final_project/final_project.egg-info/PKG-INFO
+[2.501s] writing dependency_links to build/final_project/final_project.egg-info/dependency_links.txt
+[2.503s] writing entry points to build/final_project/final_project.egg-info/entry_points.txt
+[2.503s] writing requirements to build/final_project/final_project.egg-info/requires.txt
+[2.505s] writing top-level names to build/final_project/final_project.egg-info/top_level.txt
+[2.510s] reading manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[2.511s] adding license file 'LICENSE'
+[2.513s] writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[2.513s] running build
+[2.513s] running build_py
+[2.514s] running install
+[2.515s] running install_lib
+[2.521s] running install_data
+[2.522s] running install_egg_info
+[2.525s] removing '/home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info' (and everything under it)
+[2.526s] Copying build/final_project/final_project.egg-info to /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+[2.530s] running install_scripts
+[2.560s] Installing final_project script to /home/liv/final_project/install/final_project/lib/final_project
+[2.562s] writing list of installed files to '/home/liv/final_project/build/final_project/install.log'
+[2.606s] Invoked command in '/home/liv/final_project' returned '0': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data

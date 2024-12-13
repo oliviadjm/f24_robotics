@@ -1,0 +1,30 @@
+running egg_info
+creating build/webots_myWorlds/final_project.egg-info
+writing build/webots_myWorlds/final_project.egg-info/PKG-INFO
+writing dependency_links to build/webots_myWorlds/final_project.egg-info/dependency_links.txt
+writing entry points to build/webots_myWorlds/final_project.egg-info/entry_points.txt
+writing requirements to build/webots_myWorlds/final_project.egg-info/requires.txt
+writing top-level names to build/webots_myWorlds/final_project.egg-info/top_level.txt
+writing manifest file 'build/webots_myWorlds/final_project.egg-info/SOURCES.txt'
+reading manifest file 'build/webots_myWorlds/final_project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/webots_myWorlds/final_project.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying resource/final_project -> /home/liv/final_project/install/webots_myWorlds/share/ament_index/resource_index/packages
+creating /home/liv/final_project/install/webots_myWorlds/share/final_project
+creating /home/liv/final_project/install/webots_myWorlds/share/final_project/launch
+copying launch/launch_final.py -> /home/liv/final_project/install/webots_myWorlds/share/final_project/launch
+creating /home/liv/final_project/install/webots_myWorlds/share/final_project/worlds
+copying worlds/maze.wbt -> /home/liv/final_project/install/webots_myWorlds/share/final_project/worlds
+copying worlds/maze1_smallest.wbt -> /home/liv/final_project/install/webots_myWorlds/share/final_project/worlds
+copying package.xml -> /home/liv/final_project/install/webots_myWorlds/share/final_project
+creating /home/liv/final_project/install/webots_myWorlds/share/final_project/resource
+copying resource/turtlebot_webots.urdf -> /home/liv/final_project/install/webots_myWorlds/share/final_project/resource
+copying resource/ros2control.yml -> /home/liv/final_project/install/webots_myWorlds/share/final_project/resource
+running install_egg_info
+Copying build/webots_myWorlds/final_project.egg-info to /home/liv/final_project/install/webots_myWorlds/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing final_project script to /home/liv/final_project/install/webots_myWorlds/lib/final_project
+writing list of installed files to '/home/liv/final_project/build/webots_myWorlds/install.log'

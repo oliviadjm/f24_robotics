@@ -1,0 +1,32 @@
+running egg_info
+creating build/final_project/final_project.egg-info
+writing build/final_project/final_project.egg-info/PKG-INFO
+writing dependency_links to build/final_project/final_project.egg-info/dependency_links.txt
+writing entry points to build/final_project/final_project.egg-info/entry_points.txt
+writing requirements to build/final_project/final_project.egg-info/requires.txt
+writing top-level names to build/final_project/final_project.egg-info/top_level.txt
+writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+reading manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/liv/final_project/install/final_project/share/ament_index
+creating /home/liv/final_project/install/final_project/share/ament_index/resource_index
+creating /home/liv/final_project/install/final_project/share/ament_index/resource_index/packages
+copying resource/final_project -> /home/liv/final_project/install/final_project/share/ament_index/resource_index/packages
+creating /home/liv/final_project/install/final_project/share/final_project/launch
+copying launch/launch_final.py -> /home/liv/final_project/install/final_project/share/final_project/launch
+creating /home/liv/final_project/install/final_project/share/final_project/worlds
+copying worlds/maze.wbt -> /home/liv/final_project/install/final_project/share/final_project/worlds
+copying worlds/maze1_smallest.wbt -> /home/liv/final_project/install/final_project/share/final_project/worlds
+copying package.xml -> /home/liv/final_project/install/final_project/share/final_project
+creating /home/liv/final_project/install/final_project/share/final_project/resource
+copying resource/turtlebot_webots.urdf -> /home/liv/final_project/install/final_project/share/final_project/resource
+copying resource/ros2control.yml -> /home/liv/final_project/install/final_project/share/final_project/resource
+running install_egg_info
+Copying build/final_project/final_project.egg-info to /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing final_project script to /home/liv/final_project/install/final_project/lib/final_project
+writing list of installed files to '/home/liv/final_project/build/final_project/install.log'

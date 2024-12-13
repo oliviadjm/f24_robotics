@@ -1,0 +1,32 @@
+[1.624s] Invoking command in '/home/liv/final_project': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data
+[2.146s] running egg_info
+[2.148s] writing build/final_project/final_project.egg-info/PKG-INFO
+[2.150s] writing dependency_links to build/final_project/final_project.egg-info/dependency_links.txt
+[2.151s] writing entry points to build/final_project/final_project.egg-info/entry_points.txt
+[2.153s] writing requirements to build/final_project/final_project.egg-info/requires.txt
+[2.153s] writing top-level names to build/final_project/final_project.egg-info/top_level.txt
+[2.158s] reading manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[2.159s] adding license file 'LICENSE'
+[2.161s] writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[2.163s] running build
+[2.163s] running build_py
+[2.163s] creating /home/liv/final_project/build/final_project/build
+[2.163s] creating /home/liv/final_project/build/final_project/build/lib
+[2.164s] creating /home/liv/final_project/build/final_project/build/lib/final_project
+[2.165s] copying final_project/final_project.py -> /home/liv/final_project/build/final_project/build/lib/final_project
+[2.167s] copying final_project/__init__.py -> /home/liv/final_project/build/final_project/build/lib/final_project
+[2.167s] running install
+[2.168s] running install_lib
+[2.170s] creating /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project
+[2.172s] copying /home/liv/final_project/build/final_project/build/lib/final_project/final_project.py -> /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project
+[2.173s] copying /home/liv/final_project/build/final_project/build/lib/final_project/__init__.py -> /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project
+[2.174s] byte-compiling /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project/final_project.py to final_project.cpython-310.pyc
+[2.179s] byte-compiling /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project/__init__.py to __init__.cpython-310.pyc
+[2.180s] running install_data
+[2.181s] running install_egg_info
+[2.187s] removing '/home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info' (and everything under it)
+[2.190s] Copying build/final_project/final_project.egg-info to /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+[2.192s] running install_scripts
+[2.235s] Installing final_project script to /home/liv/final_project/install/final_project/lib/final_project
+[2.236s] writing list of installed files to '/home/liv/final_project/build/final_project/install.log'
+[2.278s] Invoked command in '/home/liv/final_project' returned '0': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data

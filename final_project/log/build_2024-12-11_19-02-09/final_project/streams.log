@@ -1,0 +1,34 @@
+[1.173s] Invoking command in '/home/liv/final_project': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data
+[1.584s] running egg_info
+[1.586s] creating build/final_project/final_project.egg-info
+[1.588s] writing build/final_project/final_project.egg-info/PKG-INFO
+[1.590s] writing dependency_links to build/final_project/final_project.egg-info/dependency_links.txt
+[1.591s] writing entry points to build/final_project/final_project.egg-info/entry_points.txt
+[1.593s] writing requirements to build/final_project/final_project.egg-info/requires.txt
+[1.593s] writing top-level names to build/final_project/final_project.egg-info/top_level.txt
+[1.596s] writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[1.596s] reading manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[1.599s] adding license file 'LICENSE'
+[1.599s] writing manifest file 'build/final_project/final_project.egg-info/SOURCES.txt'
+[1.600s] running build
+[1.601s] running install
+[1.602s] running install_data
+[1.602s] creating /home/liv/final_project/install/final_project/share/ament_index
+[1.603s] creating /home/liv/final_project/install/final_project/share/ament_index/resource_index
+[1.603s] creating /home/liv/final_project/install/final_project/share/ament_index/resource_index/packages
+[1.604s] copying resource/final_project -> /home/liv/final_project/install/final_project/share/ament_index/resource_index/packages
+[1.606s] creating /home/liv/final_project/install/final_project/share/final_project/launch
+[1.608s] copying launch/launch_final.py -> /home/liv/final_project/install/final_project/share/final_project/launch
+[1.609s] creating /home/liv/final_project/install/final_project/share/final_project/worlds
+[1.609s] copying worlds/maze.wbt -> /home/liv/final_project/install/final_project/share/final_project/worlds
+[1.609s] copying worlds/maze1_smallest.wbt -> /home/liv/final_project/install/final_project/share/final_project/worlds
+[1.609s] copying package.xml -> /home/liv/final_project/install/final_project/share/final_project
+[1.611s] creating /home/liv/final_project/install/final_project/share/final_project/resource
+[1.611s] copying resource/turtlebot_webots.urdf -> /home/liv/final_project/install/final_project/share/final_project/resource
+[1.612s] copying resource/ros2control.yml -> /home/liv/final_project/install/final_project/share/final_project/resource
+[1.612s] running install_egg_info
+[1.616s] Copying build/final_project/final_project.egg-info to /home/liv/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+[1.620s] running install_scripts
+[1.661s] Installing final_project script to /home/liv/final_project/install/final_project/lib/final_project
+[1.662s] writing list of installed files to '/home/liv/final_project/build/final_project/install.log'
+[1.708s] Invoked command in '/home/liv/final_project' returned '0': PYTHONPATH=/home/liv/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liv/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/final_project build --build-base /home/liv/final_project/build/final_project/build install --record /home/liv/final_project/build/final_project/install.log --single-version-externally-managed install_data
